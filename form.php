@@ -12,7 +12,7 @@
     <div class="container-fluid p-2 ">
 
         <h1 class='my-4'>Complete our form</h1>
-        <form action="">
+        <form action="results.php">
             <div class="mb-3">
                 <label class="form-label">Phrase</label>
                 <input type="text" class="form-control" aria-describedby="emailHelp">
