@@ -15,11 +15,11 @@
         <form action="results.php">
             <div class="mb-3">
                 <label class="form-label">Phrase</label>
-                <input type="text" class="form-control" aria-describedby="emailHelp">
+                <input type="text" class="form-control" aria-describedby="emailHelp" name='phrase'>
             </div>
             <div class="mb-3">
                 <label class="form-label">Bad Word</label>
-                <input type="text" class="form-control">
+                <input type="text" class="form-control" name='bad_word'>
             </div>
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>
